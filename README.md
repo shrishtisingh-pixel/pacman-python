@@ -26,4 +26,4 @@ python pacman.py
 
 ## Gameplay Screenshot
 
-![Pacman Game Screenshot](C:\Users\91933\pacman_game\screenshots)
+![Pacman Game Screenshot](C:\Users\91933\pacman_game\screenshots\screenshots)
