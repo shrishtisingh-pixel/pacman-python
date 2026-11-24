@@ -23,3 +23,7 @@ python pacman.py
 | M | Mute |
 | R | Restart |
 | Esc | Quit |
+
+## Gameplay Screenshot
+
+![Pacman Game Screenshot](screenshots/game.png)
